@@ -40,11 +40,8 @@
 <br>
   <br>
   
-[![Shanmukh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShanmukhEstrella&theme=tokyonight)](https://github.com/ShanmukhEstrella)
+[![Shanmukh's github stats](https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&theme=merko)](https://github.com/ShanmukhEstrella/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhEstrella&layout=compact&theme=merko)](https://github.com/ShanmukhEstrella/github-readme-stats)
 
-| ![Shanmukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&theme=tokyonight) | ![Shanmukh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShanmukhEstrella&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhEstrella&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 

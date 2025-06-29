@@ -10,7 +10,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ShanmukhEstrella.ShanmukhEstrella)
 [![Github](https://img.shields.io/github/followers/ShanmukhEstrella?label=Follow&style=social)](https://github.com/ShanmukhEstrella)
 
-<div size='20px'> Hi! I am Shanmukh. You interested in me? Yep, that's why you stalking my GitHub Profile :smile: 
+<div size='20px'> Hi! I am Shanmukh. You interested in me? Yep, that's why you are here :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>

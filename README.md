@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for ShanmukhEstrella -->
 
 <h1 align="center">Hi, I'm Shanmukh Raj MSS</h1>
-<h3 align="center">🚀 Competitive Programmer | 🧠 Coder @ IIT Madras</h3>
+<h3 align="center">🚀 Developer | 🧠 Coder @ IIT Madras</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2300F7FF&size=22&center=true&vCenter=true&width=600&lines=Shanmukh+Estrella+on+GitHub;Competitive+Programmer;Linux+Power+User;Open+Source+Contributor;Always+learning..." />

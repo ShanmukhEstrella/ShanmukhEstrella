@@ -23,10 +23,10 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shanmukh-estrella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shanmukhraj-mss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Scintillator_Sha" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23F44336.svg?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/shanmukh29" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%2300A8E0.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="mailto:shanmukhraj00@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:satyaprabhamalireddi@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---

@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhEstrella&layout=compact&theme=radical&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-shanmukhestrella.vercel.app/api/top-langs/?username=ShanmukhEstrella&layout=compact&theme=radical&langs_count=8" height="180"/>
 </p>
 
 <p align="center">

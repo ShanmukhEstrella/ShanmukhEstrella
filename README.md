@@ -1,46 +1,86 @@
+<!-- GitHub Profile README for ShanmukhEstrella -->
 
+<h1 align="center">Hi, I'm Shanmukh Raj MSS</h1>
+<h3 align="center">🚀 Competitive Programmer | 🧠 Coder @ IIT Madras</h3>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2300F7FF&size=22&center=true&vCenter=true&width=600&lines=Shanmukh+Estrella+on+GitHub;Competitive+Programmer;Linux+Power+User;Open+Source+Contributor;Always+learning..." />
 </p>
 
+---
 
-[![Github](https://img.shields.io/github/followers/ShanmukhEstrella?label=Follow&style=social)](https://github.com/ShanmukhEstrella)
+### 📍 About Me
 
-<div size='20px'> Hi! I am Shanmukh. You interested in me? Yep, that's why you are here :smile: 
-</div>
+- 🎓 Core of Events and Workshops @ Shaastra, IIT Madras
+- 🧠 Final-year CS Undergrad @ IIT Madras
+- 🔭 Passionate about solving realworld problems.
+- 🛠️ Languages: `C`, `C++`, `Python`, `OCaml`
+- 🖤 I like TLEs that eventually get ACs.
+- Loves Cricket!!
 
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 🌐 Connect with me
 
-- 🔭 I’m currently a Final year Computer Science Undergrad at IIT Madras.
-  
-- 🌱 I’m currently learning  Jupyter Tool kit, Git, GitHub.
-  
-- 💬 Loves Competitive Programming, ping me up for discussion on Algorithms!!
+<p align="left">
+  <a href="https://linkedin.com/in/shanmukh-estrella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/ShanmukhEstrella" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23F44336.svg?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/shanmukh_raj" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%2300A8E0.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="mailto:shanmukhraj00@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- Loves Cricket !!
+---
 
-  
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShanmukhEstrella&theme=tokyonight" />
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/shanmukh-raj-mss-b3903a250/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://medium.com/@satyaprabhamalireddi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://github.com/ShanmukhEstrella'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Shanmukh's github stats](https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&theme=merko)](https://github.com/ShanmukhEstrella/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhEstrella&layout=compact&theme=merko)](https://github.com/ShanmukhEstrella/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanmukhEstrella&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmukhEstrella&layout=compact&theme=radical&langs_count=8" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShanmukhEstrella&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+---
 
+### 💡 Lines of Code Committed
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=ShanmukhEstrella&show=loc&line_height=30&theme=gruvbox&count_private=true" height="150"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShanmukhEstrella&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### ⏳ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShanmukhEstrella&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,ocaml,docker" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShanmukhEstrella&label=Profile+views&color=0e75b6&style=flat" alt="ShanmukhEstrella" />
+</p>

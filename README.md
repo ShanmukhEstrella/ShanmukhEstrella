@@ -1,18 +1,25 @@
 <!-- GitHub Profile README for ShanmukhEstrella -->
+<!--
+  IMAGE NOTE: the two benchmark charts load from ./assets/.
+  You MUST commit assets/chartmuseum.png and assets/voice_clinic.png
+  to this repo for them to render. If your default branch is not "main",
+  the relative paths still work; no change needed.
+-->
 
 <!-- ===== Header Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Shanmukh%20Raj%20MSS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research-based%20Operations%20Agent%20%7C%20AI%20Strategy%20%26%20Operations%20at%20Google%20xWF&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Shanmukh%20Raj%20MSS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%2C%20Signoff%20%E2%80%94%20Neutral%20Evaluation%20for%20AI%20Agents&descSize=16&descAlignY=58" />
 </p>
 
 <!-- ===== Typing Subtitle ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2358A6FF&size=22&center=true&vCenter=true&width=680&lines=Research-based+Operations+Agent;AI+Strategy+%26+Operations+at+Google;Benchmarking+and+improving+AI+agents;IIT+Madras+Alumnus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=%2358A6FF&size=22&center=true&vCenter=true&width=700&lines=Founder+of+Signoff.space;Building+AI+agent+evaluation%2C+in+stealth;Benchmarking+and+improving+AI+agents;IIT+Madras+Alumnus" />
 </p>
 
 <!-- ===== Status Badges ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Strategy%20%26%20Operations-Google%20xWF-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-Signoff%20(Stealth)-08090B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Evaluation-2f81f7?style=flat-square" />
   <img src="https://img.shields.io/badge/IIT%20Madras-Alumnus-8A2BE2?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ShanmukhEstrella&label=Profile%20Views&color=2f81f7&style=flat-square" alt="profile views" />
 </p>
@@ -21,13 +28,18 @@
 
 ### Profile
 
-Research-based Operations Agent working in AI Strategy and Operations (xWF) at Google. I work at the boundary of research, strategy, and execution, turning experimental findings into operational playbooks that scale. Computer Science alumnus of IIT Madras, with a background in competitive programming and systems.
+Founder of **Signoff** (signoff.space), currently building in stealth and not incubated anywhere. Signoff is a neutral platform that measures and improves AI agents on real agentic tasks — benchmarking any harness and model pairing, publishing full trajectories, and ranking results on pass rate, latency, tokens, and cost. Computer Science alumnus of IIT Madras, with a background in competitive programming and systems.
+
+<p align="center">
+  <a href="https://evals.signoff.space" target="_blank"><img src="https://img.shields.io/badge/Live%20Leaderboard-evals.signoff.space-08090B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://bolna-clinic.signoff.space" target="_blank"><img src="https://img.shields.io/badge/Voice%20Evals-bolna--clinic.signoff.space-2f81f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
 ### Research and Work
 
-I build and run evaluation infrastructure for AI agents under **Signoff** — a neutral platform that benchmarks any harness and model pairing on real agentic tasks, publishes full trajectories, and ranks results on pass rate, latency, tokens, and cost. The central finding across studies is consistent: a well-designed harness, plus a disciplined find-fix-reverify loop, lifts open and low-cost models to the reliability of far more expensive ones.
+The central finding across Signoff's studies is consistent: a well-designed harness, plus a disciplined find-fix-reverify loop, lifts open and low-cost models to the reliability of far more expensive ones. New domains and model pairings are being added to the live leaderboard continuously — the figures below are representative snapshots; the current numbers are always at evals.signoff.space.
 
 <p align="center">
   <img src="./assets/chartmuseum.png" alt="ChartMuseum benchmark: harness impact on agentic task pass rate" width="92%" />
@@ -39,7 +51,7 @@ On the **ChartMuseum** benchmark (100 tasks), an open, low-cost model rose from 
   <img src="./assets/voice_clinic.png" alt="Voice agent reliability on simulated clinic booking calls" width="92%" />
 </p>
 
-In the **voice clinic booking** study (14 simulated calls across English, Hindi, and Telugu), an open-source engine shipped at 36% success. Identifying and fixing three engine faults — parallel tool calls, quotes inside tool arguments, and error-page or timeout handling — took it to 100%, matching a commercial engine out of the box.
+In the **voice clinic booking** study (simulated calls across English, Hindi, and Telugu), an open-source engine shipped at 36% success. Identifying and fixing three engine faults — parallel tool calls, quotes inside tool arguments, and error-page or timeout handling — took it to 100%, matching a commercial engine out of the box.
 
 **Evaluation method.** Each task runs in an isolated Docker sandbox, is graded on end-state changes (bookings made, records updated, files written) rather than the agent's self-reported actions, and every failure receives a documented cause, a fix, and a verified re-run.
 
@@ -57,10 +69,10 @@ In the **voice clinic booking** study (14 simulated calls across English, Hindi,
 
 ### Focus Areas
 
-- Research-driven operational strategy for AI initiatives
-- Neutral benchmarking of agents on accuracy, cost, and speed
+- Neutral benchmarking of AI agents on accuracy, cost, and speed
+- Bring-your-own-harness evaluation with automatic discovery and ranking
 - Translating experimental findings into scalable operations
-- Cross-functional execution across workflows (xWF)
+- Shipping custom agents at the lowest passing cost
 
 ---
 
@@ -84,7 +96,7 @@ In the **voice clinic booking** study (14 simulated calls across English, Hindi,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShanmukhEstrella&theme=github-dark-blue&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ShanmukhEstrella&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
 <p align="center">

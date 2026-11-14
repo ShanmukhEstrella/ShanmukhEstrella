@@ -1,32 +1,60 @@
 <!-- GitHub Profile README for ShanmukhEstrella -->
 
-<h1 align="center">Hi, I'm Shanmukh Raj MSS</h1>
-<h3 align="center">🚀 Developer | 🧠 Coder @ IIT Madras</h3>
-
+<!-- ===== Header Banner ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2300F7FF&size=22&center=true&vCenter=true&width=600&lines=Shanmukh+Estrella+on+GitHub;Competitive+Programmer;Linux+Power+User;Open+Source+Contributor;Always+learning..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shanmukh%20Raj%20MSS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research-based%20Operations%20Agent%20%7C%20AI%20Strategy%20%26%20Operations%20%40%20Google%20xWF&descSize=16&descAlignY=58" />
+</p>
+
+<!-- ===== Typing Subtitle ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2300F7FF&size=22&center=true&vCenter=true&width=650&lines=Research-based+Operations+Agent;AI+Strategy+%26+Operations+%40+Google;IIT+Madras+Alumnus;Turning+research+into+operational+strategy;Competitive+Programmer+at+heart..." />
+</p>
+
+<!-- ===== Badges Row ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShanmukhEstrella&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/AI%20Strat%20Ops-Google%20xWF-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT%20Madras-Alumnus-8A2BE2?style=flat-square" />
 </p>
 
 ---
 
-### 📍 About Me
+### 👨‍💻 About Me
 
-- 🎓 Core of Events and Workshops @ Shaastra, IIT Madras
-- 🧠 Final-year CS Undergrad @ IIT Madras
-- 🔭 Passionate about solving realworld problems.
-- 🛠️ Languages: `C`, `C++`, `Python`, `OCaml`
+- 💼 **AI Strategy & Operations (xWF)** @ **Google**
+- 🔬 **Research-based Operations Agent** — turning research insights into operational strategy and execution
+- 🎓 Computer Science @ **IIT Madras**
+- ⚙️ Ex-Core, Events & Workshops @ **Shaastra, IIT Madras**
+- 🛠️ Languages & tools I lean on: `C` · `C++` · `Python` · `OCaml`
 - 🖤 I like TLEs that eventually get ACs.
-- Loves Cricket!!
+- 🏏 Loves Cricket!
+
+---
+
+### 🎯 What I'm Focused On
+
+- 🔭 Research-driven operational strategy for AI initiatives
+- 📈 Translating experimental findings into scalable ops playbooks
+- 🤝 Cross-functional execution across workflows (**xWF**)
+- ⚡ Data-informed decision making at the research ↔ strategy ↔ ops boundary
 
 ---
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shanmukh-raj-mss-b3903a250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Scintillator_Sha" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23F44336.svg?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/shanmukh29" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%2300A8E0.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="mailto:satyaprabhamalireddi@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,ocaml,docker" />
 </p>
 
 ---
@@ -72,15 +100,7 @@
 
 ---
 
-### 🧰 Tech Stack
-
+<!-- ===== Footer Banner ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,ocaml,docker" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShanmukhEstrella&label=Profile+views&color=0e75b6&style=flat" alt="ShanmukhEstrella" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 </p>
